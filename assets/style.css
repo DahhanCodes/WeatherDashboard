@@ -1,0 +1,91 @@
+/*removing browser dafaults styling*/
+/* the * acts as a select all*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+body,
+h3,
+h4,
+p {
+	color: white;
+}
+
+body {
+	background-color: rgb(97, 180, 212);
+}
+
+.header {
+	background-color: rgb(198, 226, 36);
+}
+
+.cityCondition{
+	border: 1px solid rgb(31, 236, 12);
+	border-radius: 0.25rem;
+	padding-left: 1rem;
+	background-color: rgb(243, 85, 230);
+}
+
+.btn-primary {
+	background-color: rgb(64, 223, 32);
+}
+
+#buttons-view,
+#searchInput {
+	margin-top: 3rem;
+	border: 1px solid rgb(116, 156, 196);
+    border-radius: 0.25rem;
+    padding-left: 0.1rem;
+}
+
+.list-group-item {
+	background-color: lightseagreen;
+}
+
+.card {
+	background-color: rgb(116, 156, 196);
+}
+
+.card-body {
+	padding: 0.35rem;
+}
+
+.uvGreen {
+	background-color: green;
+	border-radius: 5px;
+}
+
+.uvYellow {
+	background-color: yellow;
+	border-radius: 5px;
+}
+
+.uvOrange {
+	background-color: orange;
+	border-radius: 5px;
+}
+
+.uvRed {
+	background-color: red;
+	border-radius: 5px;
+}
+
+.uvPurple {
+	background-color: purple;
+	border-radius: 5px;
+}
+
+img {
+	width: 20%;
+	height: 20%;
+}
+
+.card-text {
+	font-size: 10pt;
+}
+
+.forcast {
+	padding: 1rem;
+	background-color: transparent;
+}
