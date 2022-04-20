@@ -1,5 +1,5 @@
 ## Project Title:
-<h1 align="center">tech_blog </h1>
+<h1 align="center">Weather Dashboard </h1>
 
 ## Description:
 :mag: A weather dashboard that will allow user to view the weather condition for their desired city.
